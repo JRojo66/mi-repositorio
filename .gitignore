@@ -1,0 +1,8 @@
+# Ignora la carpeta img_cache
+img_cache
+
+# Ignora los archivos de texto
+*.text
+
+# Ignora el archivo background
+background.jpggit 
